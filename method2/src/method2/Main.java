@@ -32,7 +32,7 @@ public class Main {
 		for (int i : sayilar) {
 			toplam += i;
 		}
-		return toplam;
+		 return toplam;
 	}
 
 	public static String sehirVer() {
